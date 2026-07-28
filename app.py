@@ -34,6 +34,7 @@ st.set_page_config(
     layout="wide",
 )
 
+api_key = st.secrets["COINGECKO_API_KEY"]
 
 @st.cache_data(ttl=900)
 def load_crypto_data(api_key, days):
