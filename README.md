@@ -7,6 +7,10 @@
 
 > An interactive cryptocurrency market analytics platform built with **Python**, **Streamlit**, and **Plotly** that transforms live market data into actionable financial insights.
 
+## 🌐 Live Demo
+
+[Open the Crypto Market Intelligence Platform](https://institutional-crypto-market-monitor-zhjzknmw7grq7r3zll8cwc.streamlit.app/)
+
 ![Dashboard](images/dashboard.png)
 
 ## Overview
